@@ -1,0 +1,3356 @@
+{
+  "name": "學不完．教不停．用不盡",
+  "generated_from": "2026-11-01 uploaded article index",
+  "count": 334,
+  "category_method": "Title keyword rules; preliminary, manually review ambiguous titles",
+  "zones": {
+    "程式實作館": 57,
+    "辦公應用館": 54,
+    "影音創作館": 47,
+    "自動化實驗室": 36,
+    "教學創新館": 39,
+    "AI 工具館": 101
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "Gemini 4 Argon 驚豔登場！從一張照片到互動式 3D 世界，AI 建模進入新時代",
+      "url": "https://vocus.cc/article/6ae6d6b6fd89780001c2ddf5",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Gemini 新功能：可以直接在 AI 對話中編輯文件、生成示意圖、匯出 PDF",
+      "url": "https://vocus.cc/article/6ae5d986fd89780001dea0d1",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ChatGPT × Claude Code ：打造「一分鐘學一個概念」AI 教學短影音平台",
+      "url": "https://vocus.cc/article/6ae53db3fd89780001be8f92",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ChatGPT 排程實戰！每天自動生成國際大事解說影片，結合 Google 雲端硬碟打造 AI 新聞影音平台",
+      "url": "https://vocus.cc/article/6adc5d01fd8978000197081a",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ChatGPT 排程實戰！每天自動產生早安圖，存入 Google 雲端硬碟，再打造專屬圖庫網站",
+      "url": "https://vocus.cc/article/6adb0e2afd89780001536d68",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "ChatGPT 排程實戰！每天自動生成早安圖，直接上傳Padlet，打造自動化的早安圖圖庫",
+      "url": "https://vocus.cc/article/6adae680fd897800014b0901",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "OpenAI 推出 ChatGPT Slides：AI 簡報生成、智慧編輯與多人協作新體驗",
+      "url": "https://vocus.cc/article/6ad8a02bfd89780001e0dabe",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "用 Google AI Studio 打造 Android App，從 AI 生成程式到手機實機安裝",
+      "url": "https://vocus.cc/article/6ad77733fd89780001b608d0",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "ChatGPT 智慧介面：從《正義：一場思辨之旅》10 個互動教材到 Notion 教學平台",
+      "url": "https://vocus.cc/article/6ad37f8cfd89780001e12a42",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "一份教材+一組提示詞，AI Agent 一次完成五大數位教學備課任務！",
+      "url": "https://vocus.cc/article/6ad237cdfd89780001ad05b9",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "從 AI 對話到 AI 做事：Antigravity × Google Classroom 教材自動發布實戰",
+      "url": "https://vocus.cc/article/6ad0f54cfd89780001f50adc",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "ChatGPT 智慧介面進化術：從互動實驗到 HTML 網頁，再到 AI 語音教學影片",
+      "url": "https://vocus.cc/article/6acba689fd89780001b3ae16",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "ChatGPT GPT-6 智慧介面登場：從文字對話到即時互動，打造互動圖表、學習測驗與模擬實驗",
+      "url": "https://vocus.cc/article/6aca3df9fd897800015b69a5",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Claude Motion 實作：從 PDF 簡報到 AI 動畫影片，一次完成配音、字幕與 MP4 匯出",
+      "url": "https://vocus.cc/article/6ac8a933fd897800013ad182",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "ChatGPT 免費繪草圖，再讓 Gemini 接力繪製圖片，AI 創作不中斷",
+      "url": "https://vocus.cc/article/6ac74bbffd89780001f56dc9",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Gemini 地圖功能也來了！整合 Google 地圖，旅遊、找店家、生成圖片一次搞定",
+      "url": "https://vocus.cc/article/6ac3a044fd897800016574e8",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "ChatGPT 地圖功能來了！整合 Google 地圖，旅遊、找店家、規劃路線一次搞定",
+      "url": "https://vocus.cc/article/6ac26e82fd89780001c52c8c",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "教學影片不一定要做成 MP4：Claude × (HTML＋SVG) 打造可播放教材",
+      "url": "https://vocus.cc/article/6ac1d11afd897800019b3161",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "不用剪輯軟體也能做教學影片：Claude Opus 5.5 × HTML＋SVG 將 PDF 變 MP4",
+      "url": "https://vocus.cc/article/6ac19f79fd897800018d85f1",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Padlet 教材再進化！AI 幫你自動加入圖片、YouTube、數學公式與電路圖",
+      "url": "https://vocus.cc/article/6abda590fd89780001577c7a",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "教育版 Padlet 也能用 AI 自動建內容！(直接將教案建立 Padlet 為例)",
+      "url": "https://vocus.cc/article/6ab911f0fd897800015cc3f6",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Gemini Notebook 新功能登場：互動式報告讓文件變成可探索的學習內容",
+      "url": "https://vocus.cc/article/6ab76bbafd89780001fa44b2",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "把超大簡報變成一個網址：用 AI Agent 將簡報 PDF 轉成互動式網站",
+      "url": "https://vocus.cc/article/6ab60713fd89780001a16654",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "ChatGPT 自訂 GPT 即將退場，將既有工具轉換為可重複使用的 Skill",
+      "url": "https://vocus.cc/article/6ab4671cfd89780001ad1781",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Padlet 也能交給 AI 操作了！Claude、Gemini 串接 MCP 實例演練",
+      "url": "https://vocus.cc/article/6ab14d82fd8978000125f9f5",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "教師用 Vibe Coding 做教材，有些必備設定可以讓教學網頁更符合現場需求",
+      "url": "https://vocus.cc/article/6aae9458fd897800017e7787",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "從螢幕錄影到 YouTube：AI 自動完成旁白、字幕與教學影片",
+      "url": "https://vocus.cc/article/6aa88dd9fd8978000182c5ad",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "AI 教學影片也能指定聲音！實測 Microsoft Azure 語音＋Claude Code 自動製片",
+      "url": "https://vocus.cc/article/6aa4b96afd897800019ef5dd",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "PISA 2025 臺灣表現解析：各種 AI 把 OECD 報告變成互動網站與 Word 文件",
+      "url": "https://vocus.cc/article/6aa3e41cfd897800016d8b6c",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "在問問 Gemini 中使用 Chrome 內建多個實用技能",
+      "url": "https://vocus.cc/article/6aa226fcfd89780001000ad2",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Google 雲端硬碟如何設定「點連結直接下載」？Word、Excel、PowerPoint 都適用",
+      "url": "https://vocus.cc/article/6aa02ed4fd89780001d2959e",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "一張單字卡變教學影片！用 AI Agent 自動完成旁白、動畫與字幕",
+      "url": "https://vocus.cc/article/6a9fbbb5fd89780001b43595",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "從 180 張 AI 圖卡到 18 支教學影片：用 Antigravity 一次完成旁白、字幕與逐字稿",
+      "url": "https://vocus.cc/article/6a9d5efcfd8978000114851f",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "從 PDF 到 YouTube：用 AI 自動完成旁白、字幕與影片製作",
+      "url": "https://vocus.cc/article/6a9ce68bfd89780001f1b609",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "從 180 張 AI 圖卡到互動教學網站：用 Vibe Coding 打造完整 AIGC 課程",
+      "url": "https://vocus.cc/article/6a9c3257fd89780001c906e0",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "從 Gemini Notebook 到 YouTube：AI 產生影片、配音與字幕",
+      "url": "https://vocus.cc/article/6a9aab20fd897800017744a9",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Google 試算表也能讓 AI 做儀表板",
+      "url": "https://vocus.cc/article/6a9a5ca0fd8978000163a842",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "從一本書到 YouTube 說書影片：實作 AI 自動化影音工作流",
+      "url": "https://vocus.cc/article/6a97f98cfd89780001e203a6",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "YouTube 影片不只用來看：用 AI 將教學內容轉換成可重複使用的 Skill",
+      "url": "https://vocus.cc/article/6a96c78bfd8978000150f568",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "從一個教案到跨 AI 技能：使用 ChatGPT 把課程設計變成可重複使用的 Skill",
+      "url": "https://vocus.cc/article/6a9588e2fd897800018b8470",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "一套快速指令，ChatGPT、Gemini、Claude 都通用：打造你的 AI 指令字典",
+      "url": "https://vocus.cc/article/6a943c2bfd8978000146e292",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "從 SDGs 知識圖卡到 YouTube 影片：練習設計一條 AI 教材工作流",
+      "url": "https://vocus.cc/article/6a92e5cbfd89780001000aab",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "AI 都說會讀網頁，實測真的抓得到全部內容？",
+      "url": "https://vocus.cc/article/6a923cf9fd89780001db5448",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "只要一份 PowerPoint，AI Agent 就能自動幫你做成教學影片",
+      "url": "https://vocus.cc/article/6a8ec719fd897800012f29c6",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "用 Vibe Coding 打造自主學習隨身 App：完整記錄探索、研究與反思",
+      "url": "https://vocus.cc/article/6a899d5dfd8978000156ee06",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "教材不再從 Word 開始：AI 互動式教材的反向設計法",
+      "url": "https://vocus.cc/article/6a87cd77fd89780001ecff89",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "將大量 Gemini Gem 轉成 Skill：在  Gemini Spark、ChatGPT、Claude中使用",
+      "url": "https://vocus.cc/article/6a8530c9fd8978000152c8a0",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "把 Skill 變成看得懂的工作流：用資訊圖表快速視覺化技能內容",
+      "url": "https://vocus.cc/article/6a84766ffd897800012c0c65",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "把實察教學變成 AI 工作流：用 Skill 打造 Google 地圖虛擬田野調查教材",
+      "url": "https://vocus.cc/article/6a83fe27fd8978000112ecab",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Gemini 開放關閉媒體浮水印：方便創作者，也考驗每個人的 AI 素養",
+      "url": "https://vocus.cc/article/6a82e4c1fd89780001d601a1",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "讓課堂抽籤不再無聊：AI 大富翁遊戲化教學工具",
+      "url": "https://vocus.cc/article/6a80f0e5fd8978000152fb26",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "AI 時代的心情溫度計：用 Gemini、Claude 打造「測心情＋名人解憂」學生輔導 App",
+      "url": "https://vocus.cc/article/6a7d1022fd89780001732bfe",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "從好玩到有效學習：用 Vibe Coding 打造六階段 AI 遊戲式教學",
+      "url": "https://vocus.cc/article/6a7bb6b8fd8978000120cf8b",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "照片會說話：PHOTO 教學模型 × Google 地圖 × AI 的跨領域數位田野學習",
+      "url": "https://vocus.cc/article/6a79d93efd89780001066c66",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "AI 備課再進化！一份 PDF 讓 6 款 AI 自動產生 PowerPoint、Word、Excel、PNG圖",
+      "url": "https://vocus.cc/article/6a79199efd89780001d28db4",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Gemini Notebook 再升級！一張英文單字卡產生 Excel、PowerPoint、Word、PNG、PDF檔",
+      "url": "https://vocus.cc/article/6a77dbaffd897800018a116e",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "在 Gemini Spark 用 MCP 連接 Canva 與 Notion，讓 Gemini 直接操作外部工具",
+      "url": "https://vocus.cc/article/6a757673fd897800010086ac",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "AI Agent 實戰：用 Codex 與 Claude Code 自動整理 1000 筆研習講師名單",
+      "url": "https://vocus.cc/article/6a753d8cfd89780001f0ce90",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "用 AI 打造推盤遊戲：實作Vibe Coding 結合泡沫排序與顯微鏡操作",
+      "url": "https://vocus.cc/article/6a73f6abfd897800019a4b6b",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "用 AI 打造教育版 2048：資訊素養與宇宙尺度遊戲設計實作",
+      "url": "https://vocus.cc/article/6a734b9ffd897800017a65a0",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "高中生最愛讀什麼？用 AI 代理分析全國閱讀心得比賽資料並建立儀表板",
+      "url": "https://vocus.cc/article/6a7297a1fd897800014efde1",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "彙編全國小論文題目：運用各種 AI 代理協助搜集與整理",
+      "url": "https://vocus.cc/article/6a71f142fd897800012b45f5",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "輸入一本書，AI 完成整套成果：用 Skill 打造圖書介紹工作流",
+      "url": "https://vocus.cc/article/6a712d9efd8978000128b44e",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Gemini Spark 進階實測：自動填表、深度研究、排程與教師工作流",
+      "url": "https://vocus.cc/article/6a6fe217fd89780001caa9d3",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "從 Skill 到互動網頁：用 ChatGPT、Claude 與 Gemini 打造高中圖書館策展工具",
+      "url": "https://vocus.cc/article/6a6f4dfafd89780001a7d23a",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "不用登入 YouTube！用 Vibe Coding 打造教師專用影音播放器",
+      "url": "https://vocus.cc/article/6a6e1119fd89780001a514fc",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "不用改原始程式！用 Google Apps Script 為教學網頁加上學校帳號驗證",
+      "url": "https://vocus.cc/article/6a6d828bfd89780001760d4d",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Gemini Spark 教學實測：自動批改學生資訊圖表作業",
+      "url": "https://vocus.cc/article/6a6ca873fd897800011ef50e",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "把 Gemini Gem 變成網頁：用 Vibe Coding 打造可互動的 AI App",
+      "url": "https://vocus.cc/article/6a6c1f37fd89780001f909c6",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "不用 API Key！用 Gemini、Claude 製作自己的 AI 翻譯器",
+      "url": "https://vocus.cc/article/6a6b556afd89780001e2bd24",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Gemini Spark 初體驗：讓 AI 代理自動處理信件、排程與日常工作",
+      "url": "https://vocus.cc/article/6a6b1908fd89780001d3087f",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "不用週週改網頁設計！用 Vibe Coding 打造自動更新的每週一書推薦網站",
+      "url": "https://vocus.cc/article/6a699f52fd897800013805e6",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "用 Vibe Coding 打造 AI 旅遊行程規劃網站",
+      "url": "https://vocus.cc/article/6a682559fd89780001bce7fb",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "把 Claude Skill 變成網頁：用 Vibe Coding 打造可分享的 AI 工具",
+      "url": "https://vocus.cc/article/6a67426dfd897800017d71b5",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "AI 不一定要很複雜：4 種快速複製圖片文字的方法",
+      "url": "https://vocus.cc/article/6a662e7afd897800012ccb17",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "不會寫程式也能做 App！我用 AI 製作日本旅遊周邊商店搜尋工具",
+      "url": "https://vocus.cc/article/6a5f8413fd89780001dae531",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "不用付費！Chrome 內建 Web Speech API 讓 Vibe Coding 教學網頁「會聽、會說」",
+      "url": "https://vocus.cc/article/6a5e3188fd89780001131a8a",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "不用 API Key 也能用 Claude AI：打造互動式易經卜卦 Artifact 完整實作",
+      "url": "https://vocus.cc/article/6a5c4631fd8978000112c536",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "把 AI 對話一鍵變成專業 Word 文件：用 Skill 自動完成排版",
+      "url": "https://vocus.cc/article/6a5a0c5efd897800018c3996",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "用《三十六計》打造 AI 教學網站：從 Vibe Coding 到 GitHub Pages 部署",
+      "url": "https://vocus.cc/article/6a59eaecfd89780001fa4591",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "當千年易經遇上生成式 AI：用 Gemini 打造互動式卜卦、解卦",
+      "url": "https://vocus.cc/article/6a58750afd897800016d8ac5",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "ChatGPT Skills 也來了：三種建立方式、召喚方法與實例應用",
+      "url": "https://vocus.cc/article/6a57a0eefd89780001388186",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "ChatGPT Work 模式實測：7 頁教材變成多種教學資源的課程包",
+      "url": "https://vocus.cc/article/6a54535afd897800013a6dad",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "用生成式 AI 把英文單字變成核心能力的互動網頁教材",
+      "url": "https://vocus.cc/article/6a53a084fd897800011491fc",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "GPT-5.6 Sol 又進化了！一次完成視覺效果更好的簡報、資訊圖表、互動網頁與教材製作",
+      "url": "https://vocus.cc/article/6a5251cafd89780001c22e74",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "從英文單字卡到遊戲網站：用 Vibe Coding 製作互動教材並部署到 GitHub Pages",
+      "url": "https://vocus.cc/article/6a51e590fd897800019ccc91",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "ChatGPT「網站」功能實測：把 PDF 教材快速變成互動式教學網頁",
+      "url": "https://vocus.cc/article/6a505f72fd897800012fd65b",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "實測 Chrome 版 ChatGPT 擴充程式：一鍵製作資訊圖表、Word 文件與 PDF 互動網頁",
+      "url": "https://vocus.cc/article/6a5059bbfd897800012e03da",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "AI 幫你做旅遊地圖：快速整理行程地點並匯入 Google 我的地圖",
+      "url": "https://vocus.cc/article/6a4e2d56fd897800010dd099",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "讓教材動起來：用 AI 與 Vibe Coding 打造視覺化互動教材",
+      "url": "https://vocus.cc/article/6a4af13afd89780001a66f44",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "可視即可得！Chrome「問問 Gemini」備課學應用實例：從表單解析、新聞海報到 PDF 轉網頁",
+      "url": "https://vocus.cc/article/6a4a4f05fd89780001953826",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "不用部署也能分享 HTML 網頁：用 Notion 管理你的 Vibe Coding 作品(以番茄鐘 App 為例)",
+      "url": "https://vocus.cc/article/6a48aab7fd89780001b3b7fe",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "用 Vibe Coding 打造互動儀表板：讓 Google 表單資料以視覺化分析呈現",
+      "url": "https://vocus.cc/article/6a47b41efd8978000162625d",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "練習 Vibe Coding：實做教育人員加薪的查詢系統",
+      "url": "https://vocus.cc/article/6a467611fd8978000111abc0",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "以製作 Markdown 學習網為例：老師開始用 AI 製作互動教材",
+      "url": "https://vocus.cc/article/6a45b7affd89780001d233bc",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "搶先體驗！NotebookLM 新功能：把筆記一鍵變成直式短影音",
+      "url": "https://vocus.cc/article/6a44aa15fd89780001eba81f",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Gemini 的 Study Notebooks 登場：學生可以建立 AI 個人化學習筆記本",
+      "url": "https://vocus.cc/article/6a3f6a43fd897800010d8bd8",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "AI 時代的《解憂雜貨店》：讓 Gemini、GPT、Claude 化身名人為學生解憂",
+      "url": "https://vocus.cc/article/6a3d28b3fd897800016dfa2e",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "NotebookLM 心智圖可以自訂了：從知識整理到簡報設計都能完整應用",
+      "url": "https://vocus.cc/article/6a3bed5ffd8978000148c367",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "由閱讀到實作：建構《原子習慣》打卡系統",
+      "url": "https://vocus.cc/article/6a394d13fd89780001b3cfbc",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Napkin 視覺化圖片再進化：用 ChatGPT、Gemini、NotebookLM 進行二次優化",
+      "url": "https://vocus.cc/article/6a37e3d2fd897800015af028",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "從 Napkin 到 ChatGPT、Gemini：用 AI 改圖打造更有質感的簡報視覺",
+      "url": "https://vocus.cc/article/6a37bd8efd8978000190edb7",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Gemini 繪製圖片推出了許多新的繪圖風格和模板！",
+      "url": "https://vocus.cc/article/6a360465fd89780001a13ff4",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "用 NotebookLM 簡報功能實現以圖改圖",
+      "url": "https://vocus.cc/article/6a3515c9fd89780001634ff9",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Chrome「問問 Gemini」輔助程式語言備課：讓程式碼與 AI 說明左右對照",
+      "url": "https://vocus.cc/article/6a32336efd89780001821a82",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "用 Chrome「問問 Gemini」推動閱讀活動：從新聞整理到影片學習的 AI 應用",
+      "url": "https://vocus.cc/article/6a312bb6fd89780001342cd3",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Chrome「問問 Gemini」技能怎麼用？自訂 Skills 提升 AI 工作效率",
+      "url": "https://vocus.cc/article/6a309acafd89780001036a45",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "用 Claude Agent 處理學生自主學習計畫：從掃描檔到 Word、儀表板與檢索網頁",
+      "url": "https://vocus.cc/article/6a30131efd89780001e1773b",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Google Classroom 整合 Gemini：教師備課與教學設計的新助手",
+      "url": "https://vocus.cc/article/6a2ea3adfd8978000174cbea",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "用 Claude Cowork 自動評閱學生測驗的程式作品：AI Agent 教學應用實例",
+      "url": "https://vocus.cc/article/6a2e7674fd8978000165b351",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "用 AI 整理 Google Fonts：打造免費繁體中文字型互動網頁",
+      "url": "https://vocus.cc/article/6a2d3644fd897800010b0865",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "AI 製作互動式教材網頁：隨堂測驗、自動批改與成績紀錄一次完成(不使用Google表單)",
+      "url": "https://vocus.cc/article/6a2ca8b2fd89780001c12826",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "從二層曼陀羅思考九宮格到互動式心智圖：AI 輔助自主學習的實用做法",
+      "url": "https://vocus.cc/article/6a2c0098fd8978000196b42c",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "用 NotebookLM 幫簡報換版型：保留內容、改變風格的 AI 工作流",
+      "url": "https://vocus.cc/article/6a2b559dfd89780001652156",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "AI 不只會聊天，還能快又好：用 Codex App 製作簡報、網頁與教學圖片",
+      "url": "https://vocus.cc/article/6a296caefd89780001e46b6a",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "用 AI 製作學校交通路線圖：從提示詞到行政應用的實作練習",
+      "url": "https://vocus.cc/article/6a27f8c4fd8978000198812d",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "不會寫公式也能做報表：ChatGPT、Claude Excel 增益集實作體驗(健身追蹤器)",
+      "url": "https://vocus.cc/article/6a24c8e3fd897800012f39df",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Google 表單有了 Gemini 加持：一句話快速產生問卷與測驗表單",
+      "url": "https://vocus.cc/article/6a24326afd8978000108ca20",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "AI 能重製現有網頁嗎？Claude、ChatGPT、Gemini 實例演練",
+      "url": "https://vocus.cc/article/6a2409c1fd89780001fb2b6b",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Gemini 沒有專案功能？用 Google 雲端硬碟的專案，協助生成學生自主學習計畫結果",
+      "url": "https://vocus.cc/article/6a238cfffd89780001d5d2a0",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "ChatGPT 官方 Excel 增益集實測：讓 AI 直接幫你處理試算表",
+      "url": "https://vocus.cc/article/6a22d219fd89780001a554e7",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 122,
+      "title": "從傳統教學掛圖到 AI 圖像生成：教育海報風格與提示詞整理",
+      "url": "https://vocus.cc/article/6a2187b8fd89780001c63615",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 123,
+      "title": "學生自主學習成果再升級：用 AI 將 PowerPoint 簡報轉成網頁與優化簡報",
+      "url": "https://vocus.cc/article/6a1e8353fd897800016e4c06",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "整理實用的 AI 繪圖之資訊圖表、簡報、海報設計風格",
+      "url": "https://vocus.cc/article/6a1d9c63fd89780001933cdc",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "費曼學習法×學生自主學習",
+      "url": "https://vocus.cc/article/6a1c35e0fd897800010922b1",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "大家都知道的 ChatGPT 隱藏指令，你套用在自訂指令了嗎？",
+      "url": "https://vocus.cc/article/6a1bc791fd89780001623e9f",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "AI 時代的教師轉型：從知識傳遞者到思維引導者",
+      "url": "https://vocus.cc/article/6a1ba1ddfd8978000154655c",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 128,
+      "title": "運用 Codex 將多個 PDF 檔內容依 PowerPoint 範本製作成簡報",
+      "url": "https://vocus.cc/article/6a1af83bfd8978000123edcd",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "實作一整期雜誌變成簡報、影片與心智圖：用 Claude、NotebookLM 與 Gemini 建立 AI 備課教材",
+      "url": "https://vocus.cc/article/6a1a57f0fd89780001ef10d3",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 130,
+      "title": "又是AI！Padlet推出Arcade：教師也能輕鬆建立互動式學習遊戲",
+      "url": "https://vocus.cc/article/6a182ca5fd89780001380c3d",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 131,
+      "title": "用 Claude 的 Chrome 擴充程式，自動替 PDF 文章畫重點",
+      "url": "https://vocus.cc/article/6a1799abfd89780001037296",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 132,
+      "title": "將 AI 生成測驗內容轉換為 Google Classroom 測驗表單(可匯入成績)",
+      "url": "https://vocus.cc/article/6a16805bfd89780001a33560",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 133,
+      "title": "ChatGPT / Claude + NotebookLM：聯手做高品質簡報",
+      "url": "https://vocus.cc/article/6a13188dfd897800014a8e4d",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 134,
+      "title": "ChatGPT for PowerPoint 教學應用：一張單字卡自動生成簡報、網頁與測驗表單",
+      "url": "https://vocus.cc/article/6a12b163fd897800012e1317",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 135,
+      "title": "在PowerPoint中運用ChatGPT增益集給予作品修改建議和進行評分",
+      "url": "https://vocus.cc/article/6a125b58fd897800010e72a0",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 136,
+      "title": "PowerPoint結合ChatGPT：快速製作圖片式簡報與繪本",
+      "url": "https://vocus.cc/article/6a113774fd89780001c0f8be",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 137,
+      "title": "ChatGPT與Claude進駐 PowerPoint：AI 直接幫你做簡報的時代來了",
+      "url": "https://vocus.cc/article/6a10726cfd8978000193478b",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 138,
+      "title": "ChatGPT：繪製圖片取代簡報投影片",
+      "url": "https://vocus.cc/article/6a0edfc6fd89780001293df4",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Chrome內建AI助理怎麼用？問問Gemini的12個實用應用場景",
+      "url": "https://vocus.cc/article/6a0c40dcfd897800019446ec",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 140,
+      "title": "建立Excel函數助教：Gemini Gem、Claude Skill+Project、ChatGPT Project",
+      "url": "https://vocus.cc/article/6a09b545fd89780001ae3659",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 141,
+      "title": "從風格仿製到完整繪本：實測NotebookLM、ChatGPT與Google Storybook的繪本生成力",
+      "url": "https://vocus.cc/article/6a096285fd8978000187c1e2",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "從JSON到直接上傳圖片：ChatGPT、Gemini 與 NotebookLM 的仿製技巧",
+      "url": "https://vocus.cc/article/6a084fb3fd89780001389b95",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 143,
+      "title": "把 OpenAI 提示詞指南變成互動教材：Claude、Cowork、Claude Design 實作",
+      "url": "https://vocus.cc/article/6a07c1a7fd897800010d5afc",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "AI智慧出題後：用Gemini、Claude、Codex、Comet檢查測驗表單",
+      "url": "https://vocus.cc/article/6a06d304fd89780001c20969",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "AI 教學內容再進化：從互動視覺化到資訊圖表與PDF學習包",
+      "url": "https://vocus.cc/article/6a01e1dffd89780001d0588b",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "從提示詞到成品：ChatGPT Project 在SDGs教學設計資訊圖表上的應用",
+      "url": "https://vocus.cc/article/6a019fd7fd89780001b86e93",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 147,
+      "title": "在NotebookLM和Google Slides改作不同風格的PowerPoint簡報檔",
+      "url": "https://vocus.cc/article/6a004fcafd8978000154b7b3",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "ChatGPT和Claude：控制Canva和Gamma改造PowerPoint簡報檔",
+      "url": "https://vocus.cc/article/6a002520fd897800014938b8",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 149,
+      "title": "用 ChatGPT 打造 SDGs 知識圖卡：從議題理解到行動表達",
+      "url": "https://vocus.cc/article/69fbd71cfd89780001a9ede8",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 150,
+      "title": "AI 時代的繪圖提示詞管理術：從蒐集、仿製到建立檢索工具",
+      "url": "https://vocus.cc/article/69fab392fd897800015fecf8",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 151,
+      "title": "搞懂圖像類型，讓AI精準聚焦畫到位",
+      "url": "https://vocus.cc/article/69f87ee7fd897800018acefd",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 152,
+      "title": "AI 視覺魔法：讓畫面「跑出畫框」的創意畫中畫",
+      "url": "https://vocus.cc/article/69f6ed98fd897800018d72ee",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 153,
+      "title": "單字卡魔法再升級：AI 多樣化教材的無限可能",
+      "url": "https://vocus.cc/article/69f5bd65fd8978000141044c",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 154,
+      "title": "Claude Cowork實戰：從AI圖片判斷到程式流程圖自動生成",
+      "url": "https://vocus.cc/article/69f4ac11fd89780001febf28",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "利用AI建立AI：Claude助你用Skill建立Skill",
+      "url": "https://vocus.cc/article/69f42e20fd89780001ddfe90",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 156,
+      "title": "AI 生產力爆發：Gemini 支援多格式文件輸出(PDF / DOCX / XLSX / MD)",
+      "url": "https://vocus.cc/article/69f305dffd897800018af02b",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 157,
+      "title": "以說書為例：取用NotebookLM產出的音訊檔製作成影片",
+      "url": "https://vocus.cc/article/69f2a0e8fd897800016828d8",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 158,
+      "title": "把百家姓變成魔術卡：AI 協作二進位教學遊戲實作",
+      "url": "https://vocus.cc/article/69f208c3fd897800014222a3",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 159,
+      "title": "比較 Gemini、ChatGPT、Claude 在將對話內容與圖片整合並匯出 PDF 的表現",
+      "url": "https://vocus.cc/article/69ef6966fd897800011bcd06",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 160,
+      "title": "AI 不是要來取代設計，而是用來放大創意：在趣味中展現想像力",
+      "url": "https://vocus.cc/article/69edfae2fd897800013807e2",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Claude Design 打造互動式 PDF，效果再升級！",
+      "url": "https://vocus.cc/article/69ed7b9cfd8978000117541d",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "用 ChatGPT Images 2.0 做什麼？9 個日常與工作應用實測",
+      "url": "https://vocus.cc/article/69ecb4d0fd89780001e77f9a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "AI 設計神器 Claude Design：教材、簡報、網頁一次搞定",
+      "url": "https://vocus.cc/article/69e31f84fd89780001c4d46f",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "解鎖AI協作紅利：Claude Cowork檔案轉影片實例",
+      "url": "https://vocus.cc/article/69ec315dfd89780001c32e1a",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "用ChatGPT消除Gemini繪製圖片的浮水印Spark符號",
+      "url": "https://vocus.cc/article/69eb7e16fd897800019a877a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 166,
+      "title": "運用 ChatGPT 與 Gemini 生成手寫直式稿紙作文",
+      "url": "https://vocus.cc/article/69eb2055fd897800014259a0",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 167,
+      "title": "從 Gemini 到 Gamma：用 Claude 串接打造更視覺化的簡報流程",
+      "url": "https://vocus.cc/article/69ea1faafd89780001f574fa",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 168,
+      "title": "ChatGPT Images 2.0 技術升級：文字渲染、多語言與一致性突破",
+      "url": "https://vocus.cc/article/69e97075fd89780001363bc1",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 169,
+      "title": "哇！ChatGPT中文處理有進步囉！",
+      "url": "https://vocus.cc/article/69e6c321fd89780001ca73b0",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "智慧搜尋新體驗：Google桌面版應用程式",
+      "url": "https://vocus.cc/article/69e62d7afd89780001d87d6e",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館"
+      ]
+    },
+    {
+      "id": 171,
+      "title": "Canva AI 2.0：用對話直接生成設計",
+      "url": "https://vocus.cc/article/69e4f7d4fd8978000176c99a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 172,
+      "title": "用 Google Slides 快速編輯和優化 NotebookLM簡報內容",
+      "url": "https://vocus.cc/article/69e3a998fd89780001183527",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Google簡報+Gemini：從零打造高質感投影片",
+      "url": "https://vocus.cc/article/69e39033fd8978000110c2c6",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 174,
+      "title": "Claude Design，讓你用對話輕鬆做設計、做簡報、做網站",
+      "url": "https://vocus.cc/article/69e2ddc3fd89780001b01345",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Google Slides可以使用Gemini幫你製作可編輯的投影片了！",
+      "url": "https://vocus.cc/article/69e20fcffd89780001727b0b",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "海報快速生成流程：ChatGPT×Claude Skill×Gemini實作筆記",
+      "url": "https://vocus.cc/article/69e1b4e9fd8978000108f0b5",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 177,
+      "title": "畫筆不只畫圖：Chrome PDF標註＋ Google Gemini圖片編修",
+      "url": "https://vocus.cc/article/69e0ee81fd89780001cf50ca",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 178,
+      "title": "AI創作流程全解析：從圖片到影片的無痛轉換",
+      "url": "https://vocus.cc/article/69df90b3fd89780001b24942",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 179,
+      "title": "用ChatGPT、Claude自動代理：PDF講義一鍵轉成Gamma簡報",
+      "url": "https://vocus.cc/article/69dcf77dfd89780001a298e6",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 180,
+      "title": "AI工作流再升級：用Cowork完成檔案整理、教材生成與數據視覺化",
+      "url": "https://vocus.cc/article/69dbb5dffd8978000143146a",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Claude串接應用程式：有效提升工作效率",
+      "url": "https://vocus.cc/article/69da4c56fd89780001e42c9d",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Google試算表中新增Gemini功能表：全方位深度整合AI",
+      "url": "https://vocus.cc/article/69d9dfc0fd89780001e65294",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 183,
+      "title": "從靜態到互動：用Gemini打造吸睛的互動式教學內容",
+      "url": "https://vocus.cc/article/69d914abfd89780001b500c3",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Google將NotebookLM的核心功能整合進Gemini的側邊欄位",
+      "url": "https://vocus.cc/article/69d8fc8afd89780001ac689a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Cowork：將多個PowerPoint與圖片批次整理成Word手冊",
+      "url": "https://vocus.cc/article/69d862dafd89780001cd9940",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 186,
+      "title": "AI生成內容變文件：Gemini、Claude、ChatGPT、Copilot比一比",
+      "url": "https://vocus.cc/article/69d77150fd89780001f789b8",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "讓旅遊相片說故事：虛實整合成資訊圖表",
+      "url": "https://vocus.cc/article/69d4f0d2fd897800011c05c9",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 188,
+      "title": "AI協作教學：用Claude Projects建立可重複產出資訊圖表提示詞的互動模組",
+      "url": "https://vocus.cc/article/69d25741fd89780001a49993",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "工作效率翻倍：圖片表格轉Excel的AI實作",
+      "url": "https://vocus.cc/article/69d1cde6fd897800017b3a8e",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "運用AI協助製作互動式的PDF",
+      "url": "https://vocus.cc/article/69d120eafd897800014c6bd8",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "運用Claude Skills：跨平台AI整合，社群早安圖生成工作鏈",
+      "url": "https://vocus.cc/article/69d0eda6fd897800013dc324",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 192,
+      "title": "Claude Cowork：讓工作真正省時、省工、省力(三個實例)",
+      "url": "https://vocus.cc/article/69d0b2ddfd897800012c63f2",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 193,
+      "title": "ChatGPT、Copilot、Claude用AI解鎖Excel：資料分析不再困難",
+      "url": "https://vocus.cc/article/69cfa16efd897800017bae5a",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 194,
+      "title": "用Gemini做資訊圖表：改寫教師教學與學生學習的表達方式",
+      "url": "https://vocus.cc/article/69cf4904fd8978000160c4a7",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 195,
+      "title": "生成式AI新趨勢：各家AI一鍵打造PowerPoint簡報的新時代",
+      "url": "https://vocus.cc/article/69ce85bbfd89780001d8be61",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 196,
+      "title": "原來試算表也能讀心？AI協助情緒分析",
+      "url": "https://vocus.cc/article/69cbdef9fd897800012078ef",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 197,
+      "title": "資訊圖表也能改內容：Canva的Magic Layers全面解鎖編輯力",
+      "url": "https://vocus.cc/article/69ca5374fd89780001f2986c",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 198,
+      "title": "教師的Gemini學習地圖資訊圖表",
+      "url": "https://vocus.cc/article/69c7f2a9fd897800015dfa5a",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Claude Cowork：高效工作流，教師備課更輕鬆",
+      "url": "https://vocus.cc/article/69c295d4fd89780001e215b9",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 200,
+      "title": "用Claude Cowork打造高效教學：備課與教學實例解析",
+      "url": "https://vocus.cc/article/69bffc49fd8978000145ab0d",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 201,
+      "title": "Claude Cowork：10分鐘將超過百個的C程式碼加上註解，並且排版做成Word文件檔",
+      "url": "https://vocus.cc/article/69bfb97afd8978000133183b",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 202,
+      "title": "利用Claude的Cowork自動批改全班資訊圖表作業",
+      "url": "https://vocus.cc/article/69beb8befd89780001e52a0f",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 203,
+      "title": "Google Stitch初體驗Vibe Design：SDGs教學網站動口做",
+      "url": "https://vocus.cc/article/69be0ae1fd89780001b4a60d",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 204,
+      "title": "AI 協作學習：從主題發想到資訊圖表產出的教學實踐",
+      "url": "https://vocus.cc/article/69bdede7fd89780001aa8ee1",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 205,
+      "title": "運用Claude Skills和Gemini，建構SDGs資訊圖表",
+      "url": "https://vocus.cc/article/69babe44fd8978000176391e",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Claude Skills：用結構化Prompt打造AI工具",
+      "url": "https://vocus.cc/article/69b7acebfd8978000124af22",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 207,
+      "title": "把Copilot Agent提供的好用範本轉移到Gemini的Gem中使用",
+      "url": "https://vocus.cc/article/69b6877ffd89780001d46725",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 208,
+      "title": "日期萬花筒：用資訊圖表看見時間的故事",
+      "url": "https://vocus.cc/article/69b635a7fd89780001be53ef",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 209,
+      "title": "從AI對話到互動教材：用HTML、分享頁面與網站嵌入打造彈性教學",
+      "url": "https://vocus.cc/article/69b53e69fd8978000182cff0",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 210,
+      "title": "Google Slides結合Gemini不只美化投影，AI還為你提供範本和模組",
+      "url": "https://vocus.cc/article/69b4c1d4fd8978000162871a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Claude也推出了視覺化互動式內容幫助你學習",
+      "url": "https://vocus.cc/article/69b41796fd897800013938ec",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 212,
+      "title": "Claude文件處理再升級：教學與學習資料整理更高效",
+      "url": "https://vocus.cc/article/69b368fffd89780001065def",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 213,
+      "title": "PowerPoint也跟進以AI編輯圖片",
+      "url": "https://vocus.cc/article/69b298affd89780001cf495b",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 214,
+      "title": "ChatGPT推出視覺化互動式的學習數學和科學的新方法",
+      "url": "https://vocus.cc/article/69b1705dfd89780001812b6c",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 215,
+      "title": "在Excel中透過Copilot協作，免輸入公式即可設計抓取線上網頁內容的工作表",
+      "url": "https://vocus.cc/article/69b03e80fd89780001fe440f",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 216,
+      "title": "運用自訂指令，優化NotebookLM簡報輸出",
+      "url": "https://vocus.cc/article/69aede41fd897800019387d7",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 217,
+      "title": "GPT-5.4 來了！實測文件生成與圖像中文處理能力",
+      "url": "https://vocus.cc/article/69ae108efd897800015be58d",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 218,
+      "title": "提升理解力與分析力：學生需要的9種資料統整方法",
+      "url": "https://vocus.cc/article/69ad59bdfd8978000133033d",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 219,
+      "title": "AI協助讀報計畫：從新聞整理到教學素材生成",
+      "url": "https://vocus.cc/article/69aa26fdfd897800015f0e11",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Gem：輔助生成YouTube影片的學習內容和資訊圖表",
+      "url": "https://vocus.cc/article/69a99c33fd89780001470084",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 221,
+      "title": "當Gemini的Gem遇上NotebookLM：AI 工作流的進化",
+      "url": "https://vocus.cc/article/69a6f0a3fd8978000128d503",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 222,
+      "title": "NotebookLM資訊圖表新增10種風格對應不同受眾與應用情境",
+      "url": "https://vocus.cc/article/69a6c6adfd897800011e82c7",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 223,
+      "title": "又更輕鬆了！Opal在工作流程中新增Agent工具",
+      "url": "https://vocus.cc/article/69a3dcfffd897800015eed75",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室"
+      ]
+    },
+    {
+      "id": 224,
+      "title": "根據Google提供的Nano Banana圖像生成技巧繪製的範例",
+      "url": "https://vocus.cc/article/69a3a9b0fd897800015121e9",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 225,
+      "title": "Nano Banana 2 上線！一鍵生成專業級早安圖",
+      "url": "https://vocus.cc/article/69a2d521fd897800011921e5",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 226,
+      "title": "100多種在教育中運用Gemini和NotebookLM的方法(2026版)",
+      "url": "https://vocus.cc/article/69a19617fd89780001bfe861",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 227,
+      "title": "Google表單新功能：利用提示詞，讓AI幫你建立表單內容",
+      "url": "https://vocus.cc/article/69a15405fd89780001aeee65",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 228,
+      "title": "NotebookLM：當短影音遇上知識管理，打造可累積的內容價值",
+      "url": "https://vocus.cc/article/69a10661fd897800019bbbff",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 229,
+      "title": "Gemini推出Bano Banana 2：快捷模式也能製作多張正確中文的資訊圖表",
+      "url": "https://vocus.cc/article/69a0e740fd8978000192fba8",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 230,
+      "title": "解決Google CSV檔在Excel中顯示亂碼的問題",
+      "url": "https://vocus.cc/article/699febcefd8978000123d6c8",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 231,
+      "title": "終於開放！Gemini 教育帳號開放分享功能，對話與成果都能一鍵傳遞",
+      "url": "https://vocus.cc/article/699edbf1fd89780001e08e01",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 232,
+      "title": "Microsoft Copilot推出「教導」功能：教師的AI協作教學工具",
+      "url": "https://vocus.cc/article/699db6a9fd897800012fa665",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 233,
+      "title": "當文件變成圖像：把生成式AI注意事項變成學生看得懂的資訊圖表",
+      "url": "https://vocus.cc/article/699c502bfd89780001d06484",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 234,
+      "title": "Gemini：知識視覺化與互動學習的智慧助手",
+      "url": "https://vocus.cc/article/699ba583fd89780001a549ea",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 235,
+      "title": "免費版也能用！備課再進化：Claude AI幫你產出可編輯PPT、Word、Excel！",
+      "url": "https://vocus.cc/article/699a5d71fd897800015a0a20",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 236,
+      "title": "把旅遊記憶變成作品：NotebookLM×Gemini Storybook應用",
+      "url": "https://vocus.cc/article/6999a9cdfd89780001357c48",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 237,
+      "title": "太扯！Gemini也能做台語歌！",
+      "url": "https://vocus.cc/article/69999607fd897800012fc19a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 238,
+      "title": "你把風景拍下來，Gemini幫你讓光影說話",
+      "url": "https://vocus.cc/article/6999256bfd89780001131a36",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 239,
+      "title": "Google AI Mode的Pro功能：提供資料，也提供工具",
+      "url": "https://vocus.cc/article/6997bf3afd89780001bb2479",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 240,
+      "title": "Excel：實作決策工具艾森豪矩陣視圖",
+      "url": "https://vocus.cc/article/699722b2fd897800019b7b33",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 241,
+      "title": "哇！Gemini推出創作音樂工具，支援影片與純音樂下載",
+      "url": "https://vocus.cc/article/69967d79fd8978000176379a",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 242,
+      "title": "NotebookLM新功能：修改投影片內容和下載PowerPoint簡報",
+      "url": "https://vocus.cc/article/69959929fd8978000148bfe2",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 243,
+      "title": "高效率Prompt的四步驟模型：辨識、分析、模擬、生成",
+      "url": "https://vocus.cc/article/6995374ffd897800014a6899",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 244,
+      "title": "從零散到結構化：用NotebookLM重塑行政會議資料管理模式",
+      "url": "https://vocus.cc/article/69947ba3fd89780001251859",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 245,
+      "title": "不只是生成圖片：AI 春節賀卡的創意拆解",
+      "url": "https://vocus.cc/article/69943e28fd89780001151643",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 246,
+      "title": "讓NotebookLM變成你的專屬助理：系統提示詞設計心法",
+      "url": "https://vocus.cc/article/698d44a4fd8978000131520c",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 247,
+      "title": "建立AI閱讀代理：從雜誌瀏覽到結構化摘要",
+      "url": "https://vocus.cc/article/698d25defd8978000126d793",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 248,
+      "title": "抽象變好玩：用遊戲翻轉二進位教學",
+      "url": "https://vocus.cc/article/698c8939fd8978000104ef56",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 249,
+      "title": "從備課到教材協作：AI在教學設計中的應用與界限",
+      "url": "https://vocus.cc/article/698bd8b2fd89780001d362fa",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 250,
+      "title": "從生硬到生動：AI協助翻轉教師的教材設計",
+      "url": "https://vocus.cc/article/698a9202fd897800018182b2",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 251,
+      "title": "從被動看影片到系統化學習：NotebookLM如何重塑學習流程",
+      "url": "https://vocus.cc/article/698943a9fd89780001203efa",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 252,
+      "title": "M365 Copilot×Gemini：AI協作設計 SDGs資訊圖表實戰",
+      "url": "https://vocus.cc/article/6987feb8fd89780001c511a5",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 253,
+      "title": "NotebookLM視覺化應用：從圖片筆記到AI繪圖提示詞的完整工作流",
+      "url": "https://vocus.cc/article/698724c3fd89780001900067",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 254,
+      "title": "NotebookLM實戰：精準控制「語音摘要」對話風格與重點",
+      "url": "https://vocus.cc/article/69871b8efd897800018dfa42",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 255,
+      "title": "活用Excel：在每個字元之間插入空格或符號",
+      "url": "https://vocus.cc/article/6986dc96fd897800017c23ee",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 256,
+      "title": "讓學生從「套用提示詞」走向「理解提示詞」的逆向方法",
+      "url": "https://vocus.cc/article/6986b649fd89780001714b4f",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 257,
+      "title": "自動配音登上 YouTube：創作者和AI 協作時代的開始",
+      "url": "https://vocus.cc/article/698591defd89780001db0b64",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 258,
+      "title": "AI又來救援！批次將多個PowerPoint檔的第1頁儲存為PNG圖檔",
+      "url": "https://vocus.cc/article/69855ae1fd89780001c851a8",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 259,
+      "title": "高效做筆記：結合不同筆記法轉化為資訊圖表",
+      "url": "https://vocus.cc/article/6984ac32fd89780001a29f99",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 260,
+      "title": "Prism：從數學公式到視覺化內容的 AI 表達利器",
+      "url": "https://vocus.cc/article/69845dc5fd89780001e87634",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 261,
+      "title": "與Gemini高效對話的核心：提示詞四大要素與實務流程",
+      "url": "https://vocus.cc/article/6983ed85fd89780001d7ebae",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 262,
+      "title": "Grok免費做！圖片轉影片又快又好",
+      "url": "https://vocus.cc/article/6983269cfd89780001abf4e9",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 263,
+      "title": "Gemini Nano Banano Pro：不僅是畫圖，更是你的視覺創作夥伴",
+      "url": "https://vocus.cc/article/6981d549fd89780001f5228e",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 264,
+      "title": "用AI做「找一找」插畫，為孩子打造不無聊的假期",
+      "url": "https://vocus.cc/article/6980b7fcfd89780001a7afbf",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 265,
+      "title": "最可怕的不是AI亂講，而是它差一點點就全對了",
+      "url": "https://vocus.cc/article/6980377bfd89780001e46663",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 266,
+      "title": "AI神救援！PowerPoint自動化批量匯入圖片，數百張投影片一次完成",
+      "url": "https://vocus.cc/article/697ff821fd89780001d097ad",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 267,
+      "title": "ChatGPT可以直接輸出Word、Excel、PowerPoint、PDF等檔案格式",
+      "url": "https://vocus.cc/article/697f45e8fd89780001a79bca",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 268,
+      "title": "微軟Copilot代理程式全面進化：串接 Canva做簡報，整合Office客製化應用",
+      "url": "https://vocus.cc/article/697ec1bffd8978000192fa40",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 269,
+      "title": "從YouTube網址出發！NotebookLM玩轉歌曲影片的歌詞",
+      "url": "https://vocus.cc/article/697e183efd89780001661331",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 270,
+      "title": "用圖像取代文字：優化AI繪圖提示詞的高效方法",
+      "url": "https://vocus.cc/article/697cc33ffd897800010eeb2c",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 271,
+      "title": "利用NotebookLM逆向解析圖片繪圖風格與生成參數",
+      "url": "https://vocus.cc/article/697b64e6fd8978000125ad57",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 272,
+      "title": "OpenAI推出LaTex線上編輯器Prism，可以和AI協作，也能多人共編",
+      "url": "https://vocus.cc/article/697b1715fd89780001119971",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 273,
+      "title": "運用Comet助理，協助教師測試Google測驗表單的結果",
+      "url": "https://vocus.cc/article/697af599fd8978000108b2da",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 274,
+      "title": "善用自訂提示詞，提升NotebookLM簡報可控性",
+      "url": "https://vocus.cc/article/697957d8fd89780001c9decb",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 275,
+      "title": "Google Opal整合至Gemini Gem：No Code打造AI全新應用",
+      "url": "https://vocus.cc/article/697851b7fd89780001e4dd96",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 276,
+      "title": "透過Sora快速製作大量去背插圖，輕鬆應用於PowerPoint簡報",
+      "url": "https://vocus.cc/article/697825bffd89780001d773ef",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 277,
+      "title": "善用NotebookLM打造結構化兼具圖像化的課程回饋分析",
+      "url": "https://vocus.cc/article/697449affd89780001d27e62",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 278,
+      "title": "結合NotebookLM與Gamma，讓 AI 簡報真正貼合你的教材",
+      "url": "https://vocus.cc/article/69738d2bfd89780001002a69",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 279,
+      "title": "AI智慧出題自動化：從NotebookLM到Google測驗表單(可以評分和顯示詳解)",
+      "url": "https://vocus.cc/article/697373a8fd89780001f9cb32",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 280,
+      "title": "運用Gemini的Gem協助你同時多國語言翻譯和轉換為台語傳統漢字",
+      "url": "https://vocus.cc/article/6971ca68fd89780001053cc0",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 281,
+      "title": "使用Gemini撰寫網頁程式及實際運用的流程範例",
+      "url": "https://vocus.cc/article/69704fccfd89780001b189e5",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 282,
+      "title": "不只純文字！Windows記事本正式支援Markdown與表格",
+      "url": "https://vocus.cc/article/696f1ba9fd8978000138885a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "將Google簡報轉換為影片並下載為MP4檔",
+      "url": "https://vocus.cc/article/696dca6bfd89780001d89b02",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 284,
+      "title": "讓Gemini連結你的日常應用，打造真正個人化的 AI 助手",
+      "url": "https://vocus.cc/article/696d9536fd89780001c7f15b",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 285,
+      "title": "讓AI輔助評量專題製作報告的影片(ChatGPT+YouTube+NotebookLM)",
+      "url": "https://vocus.cc/article/696c866afd8978000182e00f",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 286,
+      "title": "處理NotebookLM中的筆記轉換至Google文件的表格問題",
+      "url": "https://vocus.cc/article/696b6819fd897800013f063c",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 287,
+      "title": "ChatGPT和NotebookLM聯手的教材測驗自動化產製流程",
+      "url": "https://vocus.cc/article/696a3ea1fd89780001f2b38e",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 288,
+      "title": "線上翻譯工具不只Google，ChatGPT也可以喔！",
+      "url": "https://vocus.cc/article/696735a9fd8978000164a6ca",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 289,
+      "title": "直接下載！以ChatGPT建立模擬李賽氏圖形波形產生器的Excel檔",
+      "url": "https://vocus.cc/article/6964fdd2fd89780001450e32",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 290,
+      "title": "NotebookLM和Gemini竟然能依模糊的圖片內容製作資訊圖表",
+      "url": "https://vocus.cc/article/696494fcfd8978000125f7fa",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 291,
+      "title": "只給Gemini一個PDF檔的網址，就能將最新資訊繪製成資訊圖表",
+      "url": "https://vocus.cc/article/6963c188fd89780001f2376f",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 292,
+      "title": "讓Windows的工作列上顯示日期，同時也顯示星期六或週六",
+      "url": "https://vocus.cc/article/69625972fd8978000195e8c3",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 293,
+      "title": "解決上傳Excel檔製作資訊圖表產生錯誤結果的問題",
+      "url": "https://vocus.cc/article/69609831fd897800012adf57",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 294,
+      "title": "從一張白板的相片出發，讓NotebookLM為你打開後面的路",
+      "url": "https://vocus.cc/article/695f51e3fd897800018da94b",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 295,
+      "title": "善用 AI繪圖，並非用來取代設計，而是要來放大創意",
+      "url": "https://vocus.cc/article/695d2411fd89780001d6973a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 296,
+      "title": "AI助攻，在一個資訊圖表中呈現程式內容、解說和流程圖",
+      "url": "https://vocus.cc/article/695cf052fd89780001c555a7",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 297,
+      "title": "將Word文件內容轉換每一個頁面為一張圖片",
+      "url": "https://vocus.cc/article/695c775bfd89780001ebd4b8",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 298,
+      "title": "Sora、Gemini、Grok、Meta AI做影片，你選那一個",
+      "url": "https://vocus.cc/article/695bc022fd89780001b6e04c",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 299,
+      "title": "利用Canva將NotebookLM產製的PDF檔變成影片MP4檔",
+      "url": "https://vocus.cc/article/695b6167fd8978000196e24b",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 300,
+      "title": "上傳相片，NotebookLM幫你評論相片、做成故事簡報和資訊圖表",
+      "url": "https://vocus.cc/article/695a5fd5fd897800015718e2",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 301,
+      "title": "利用Gemini自製360度全景相片檢視器並可下載影片檔",
+      "url": "https://vocus.cc/article/6959d2d6fd89780001342754",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 302,
+      "title": "NotebookLM和Gemini聯手，教材PDF轉為簡報+互動網頁+資訊圖表",
+      "url": "https://vocus.cc/article/6957d2f0fd89780001c20417",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "辦公應用館",
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 303,
+      "title": "利用Gemini運用Sora製作含有中文錯字的圖片",
+      "url": "https://vocus.cc/article/69575317fd89780001a16180",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 304,
+      "title": "Gemini的視覺版面配置：回覆資訊以視覺化的方式呈現",
+      "url": "https://vocus.cc/article/695690bffd89780001f2e53a",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 305,
+      "title": "站在AI浪潮上，迎向2026教學新未來",
+      "url": "https://vocus.cc/article/69552c24fd897800018454fb",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 306,
+      "title": "AI浪潮下：學會如何學的自主學習",
+      "url": "https://vocus.cc/article/69531efdfd89780001109a74",
+      "zone": "教學創新館",
+      "tags": [
+        "教學創新館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 307,
+      "title": "過往以圖搜圖，現在以圖搜地圖",
+      "url": "https://vocus.cc/article/695288affd89780001e54b40",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 308,
+      "title": "Google提供的AI實用技巧，你用了那幾個？",
+      "url": "https://vocus.cc/article/695214f6fd89780001c02ee1",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 309,
+      "title": "與其害怕被 AI 取代，不如重新定義自己的角色",
+      "url": "https://vocus.cc/article/69512331fd897800017ab467",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 310,
+      "title": "利用Sora和Gemini製作圖片式的整頁投影片內容",
+      "url": "https://vocus.cc/article/6950ae6ffd8978000157802b",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 311,
+      "title": "將NotebookLM的影片摘要上傳YouTube並顯示字幕",
+      "url": "https://vocus.cc/article/694f7a1ffd89780001ffaea7",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 312,
+      "title": "在Google簡報運用Gemini的Nano Banana Pro繪圖功能美化投影片",
+      "url": "https://vocus.cc/article/694f44c2fd89780001f03cac",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 313,
+      "title": "在Google試算表中利用表格資料產生資訊圖表",
+      "url": "https://vocus.cc/article/694d5c49fd897800017b680c",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    },
+    {
+      "id": 314,
+      "title": "將教材PDF內容轉換為卡通漫畫版教材",
+      "url": "https://vocus.cc/article/694d2d1afd897800016acfaf",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "教學創新館"
+      ]
+    },
+    {
+      "id": 315,
+      "title": "NotebookLM工作室：一個單字卡的魔法",
+      "url": "https://vocus.cc/article/694cac34fd8978000144c177",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 316,
+      "title": "Google Gemini的Gem可以設定預設工具了",
+      "url": "https://vocus.cc/article/694bf610fd89780001229e09",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 317,
+      "title": "AI協作二層曼陀羅思考九宮格並且輸出手繪心智圖",
+      "url": "https://vocus.cc/article/6949e2fbfd8978000148fae1",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 318,
+      "title": "利用英文單字拆解每個字母代表不同的意義",
+      "url": "https://vocus.cc/article/69496983fd8978000130f5a2",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 319,
+      "title": "實現資料自由！NotebookLM從統計、分析到圖表、簡報",
+      "url": "https://vocus.cc/article/69495141fd897800012979db",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 320,
+      "title": "Google AI模式中的新功能：家庭作業",
+      "url": "https://vocus.cc/article/6948a54ffd89780001f02674",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 321,
+      "title": "圖解師生都需要的NotebookLM",
+      "url": "https://vocus.cc/article/69480c31fd89780001c30638",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 322,
+      "title": "善用NotebookLM資料表功能，將資料來源系統化為表格筆記",
+      "url": "https://vocus.cc/article/69463773fd89780001412e4d",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 323,
+      "title": "@助你在ChatGPT和Gemini中快速選取應用程式",
+      "url": "https://vocus.cc/article/69462c4cfd897800013e08fa",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 324,
+      "title": "ChatGPT連結Figma，輕鬆產生流程圖和簡報",
+      "url": "https://vocus.cc/article/6944da0afd89780001d528b6",
+      "zone": "自動化實驗室",
+      "tags": [
+        "自動化實驗室",
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 325,
+      "title": "Google Flow也可以透過Bano Banana Pro製作影片和圖片",
+      "url": "https://vocus.cc/article/69449c56fd89780001bd78d6",
+      "zone": "影音創作館",
+      "tags": [
+        "影音創作館"
+      ]
+    },
+    {
+      "id": 326,
+      "title": "在Gemini中整合NotebookLM筆記，可以更多元的運用筆記內容",
+      "url": "https://vocus.cc/article/6942bf26fd897800014cbb13",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 327,
+      "title": "Google Opal：無程式碼的AI應用程式建構工具",
+      "url": "https://vocus.cc/article/6942ae6ffd8978000145a274",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 328,
+      "title": "Gemini的Gem已經整合了Opal中的app",
+      "url": "https://vocus.cc/article/6942a5f7fd8978000142565d",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 329,
+      "title": "如何將在Gemini中產生的React框架單頁網頁在Google協作平台呈現",
+      "url": "https://vocus.cc/article/693fc1a8fd897800019f3770",
+      "zone": "程式實作館",
+      "tags": [
+        "程式實作館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 330,
+      "title": "在Gemini中連結SynthID，可以檢測圖片是否為Google AI所做",
+      "url": "https://vocus.cc/article/693edc71fd89780001658a40",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 331,
+      "title": "運用Gemini的Nano Banana Pro來繪製資訊圖表",
+      "url": "https://vocus.cc/article/693e903efd897800014bdd2e",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 332,
+      "title": "在ChatGPT中將英文PDF檔轉換為中文PDF檔",
+      "url": "https://vocus.cc/article/693d714efd8978000106d344",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館",
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 333,
+      "title": "Chrome終於有了分割畫面功能",
+      "url": "https://vocus.cc/article/693d38a4fd89780001f77058",
+      "zone": "AI 工具館",
+      "tags": [
+        "AI 工具館"
+      ]
+    },
+    {
+      "id": 334,
+      "title": "Excel 2019 版後函數的資訊圖表",
+      "url": "https://vocus.cc/article/693cfa7afd89780001e48689",
+      "zone": "辦公應用館",
+      "tags": [
+        "辦公應用館"
+      ]
+    }
+  ]
+}

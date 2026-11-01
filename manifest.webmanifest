@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "學不完知識島｜學不完．教不停．用不盡",
+  "short_name": "學不完知識島",
+  "description": "探索 334 篇 AI 與數位教學文章的互動式 3D 知識島嶼",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf8ff",
+  "theme_color": "#256bd7",
+  "lang": "zh-Hant",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
